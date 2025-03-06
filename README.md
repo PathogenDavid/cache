@@ -1,5 +1,9 @@
 # Cache action
 
+This fork has been archived as it has been made redundant by [official restore-only variant](https://github.com/actions/cache/tree/d4323d4df104b026a6aa633fdb11d772146be0bf/restore) provided by upstream.
+
+-----------------------------
+
 This action allows caching dependencies and build outputs to improve workflow execution time.
 
 >Two other actions are available in addition to the primary `cache` action:
